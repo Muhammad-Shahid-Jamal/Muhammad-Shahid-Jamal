@@ -1,9 +1,3 @@
-<style>
- a{
-   color:#0384ff;
- }
-</style>
-
 ## Hola, I'm [Muhammad Shahid!](https://findshahid.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Shahid-Jamal&label=Views&color=blue&style=plastic" alt="Muhammad-Shahid-Jamal" /> </p>
