@@ -43,8 +43,12 @@
 <a href="https://github.com/Muhammad-Shahid-Jamal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shahid-Jamal&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
+
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
 
+</div>
+<div>
+[![@shahidjamal's Holopin board](https://holopin.io/api/user/board?user=shahidjamal)](https://holopin.io/@shahidjamal)
 </div>
