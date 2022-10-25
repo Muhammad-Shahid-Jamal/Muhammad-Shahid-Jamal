@@ -49,4 +49,7 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-[![@shahidjamal's Holopin board](https://holopin.io/api/user/board?user=shahidjamal)](https://holopin.io/@shahidjamal)
+
+---
+
+[![@shahidjamal's Holopin board](https://holopin.me/shahidjamal)](https://holopin.io/@shahidjamal)
